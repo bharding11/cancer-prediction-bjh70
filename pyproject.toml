@@ -2,7 +2,7 @@
 name = "cancer-prediction-bjh70"
 description = "A basic model to predict cancerous tumors based on certain properties."
 authors = [{name = "benharding"}]
-version = "0.1.3"
+version = "0.1.4"
 requires-python = ">=3.11"
 dependencies = [
     "click>=8.3.1",
